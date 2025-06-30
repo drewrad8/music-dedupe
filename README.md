@@ -38,14 +38,19 @@ A powerful, user-friendly application to find and manage duplicate music files a
 1. Ensure you have Python 3.6+ installed
 2. Clone this repository:
    ```
-   git clone https://github.com/username/music-dedupe.git
+   git clone https://github.com/theaccessvirus/music-dedupe.git
    cd music-dedupe
    ```
-3. Install required dependencies:
+3. Create Python Venv
+   ```
+   python -m venv .
+   source ./bin/activate
+   ```
+4. Install required dependencies:
    ```
    pip install tkinterdnd2 mutagen
    ```
-4. Run the application:
+5. Run the application:
    ```
    python music_dedupe_gui.py
    ```
