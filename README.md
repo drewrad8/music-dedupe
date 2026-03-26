@@ -2,7 +2,7 @@
 
 A powerful, user-friendly application to find and manage duplicate music files across your collection.
 
-![Music Deduplication Tool](https://raw.githubusercontent.com/username/music-dedupe/main/screenshots/app.png)
+![Music Deduplication Tool](https://raw.githubusercontent.com/drewrad8/music-dedupe/dev/music_dedupe.png)
 
 ## Features
 
@@ -28,7 +28,7 @@ A powerful, user-friendly application to find and manage duplicate music files a
 
 ### Option 1: Download Pre-built Binary
 
-1. Download the latest release for your platform from the [Releases page](https://github.com/username/music-dedupe/releases)
+1. Download the latest release for your platform from the [Releases page](https://github.com/drewrad8/music-dedupe/releases)
 2. macOS: Double-click the `.app` file to launch
 3. Windows: Double-click the `.exe` file to launch
 4. Linux: Run the executable from the terminal
@@ -38,7 +38,7 @@ A powerful, user-friendly application to find and manage duplicate music files a
 1. Ensure you have Python 3.6+ installed
 2. Clone this repository:
    ```
-   git clone https://github.com/username/music-dedupe.git
+   git clone https://github.com/drewrad8/music-dedupe.git
    cd music-dedupe
    ```
 3. Install required dependencies:
@@ -55,7 +55,7 @@ A powerful, user-friendly application to find and manage duplicate music files a
 1. Ensure you have Python 3.6+ installed
 2. Clone this repository:
    ```
-   git clone https://github.com/username/music-dedupe.git
+   git clone https://github.com/drewrad8/music-dedupe.git
    cd music-dedupe
    ```
 3. Run the setup script:
